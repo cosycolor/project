@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T14:56:25.589Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.5" etag="jvfSJGoPan3juiBk8974" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T15:09:04.447Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Z8OyLNcqheVbqrSYHnjw" version="21.7.5" type="github">
   <diagram name="페이지-1" id="Jf4VGtBNW7yc6LW_vHKF">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QbeS27CFmJYbIxK94RsQ-6" value="이용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QbeS27CFmJYbIxK94RsQ-8" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="110" width="320" height="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
